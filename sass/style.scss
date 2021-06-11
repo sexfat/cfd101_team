@@ -1,2 +1,10 @@
 @import './base/var';
 @import './mixins/mixin';
+
+body {
+   font-size: 15px; 
+}
+
+.wrapper {
+    width: 1200px;
+}
